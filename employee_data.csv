@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,JoinDate,City
+1,Alice,HR,34,60000,2020-01-15,New York
+2,Bob,IT,29,75000,2018-03-22,Los Angeles
+3,Charlie,Marketing,41,80000,2016-07-11,Chicago
+4,David,Finance,39,95000,2019-02-18,New York
+5,Eva,IT,25,65000,2021-08-30,San Francisco
+6,Frank,HR,50,85000,2015-04-12,New York
+7,Grace,IT,36,91000,2017-10-20,Seattle
+8,Hannah,Marketing,32,72000,2018-12-05,Chicago
+9,Ian,Finance,45,99000,2014-11-03,Los Angeles
+10,Jane,HR,28,58000,2022-01-10,San Francisco
