@@ -21,3 +21,9 @@ for index, row in df.iterrows():
 # iterate over columns
 for col, col_data in df.items():
     print(col, col_data)
+
+
+# iterate over tuples
+
+for row in df.itertuples():
+    print(row, type(row))
