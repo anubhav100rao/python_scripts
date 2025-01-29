@@ -26,4 +26,4 @@ for col, col_data in df.items():
 # iterate over tuples
 
 for row in df.itertuples():
-    print(row, type(row))
+    print(row.Name)
